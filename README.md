@@ -1,1 +1,1 @@
-# SAD101
+Student Registration System
